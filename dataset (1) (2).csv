@@ -1,0 +1,742 @@
+TweetText,Sentiment
+"Nuclear energy is the future of sustainable power generation.",Positive
+"The risks of nuclear accidents are too high to justify using nuclear power.",Negative
+"Nuclear disarmament is essential for global peace.",Positive
+"I feel neutral about the debate on nuclear proliferation.",Neutral
+"Nuclear weapons testing should be banned worldwide.",Positive
+"The benefits of nuclear medicine outweigh the potential risks.",Positive
+"The Chernobyl disaster serves as a cautionary tale against nuclear energy.",Negative
+"Nuclear fusion has the potential to revolutionize the energy industry.",Positive
+"Renewable energy sources are a better alternative to nuclear power.",Negative
+"I'm indifferent towards the use of nuclear energy.",Neutral
+"The Fukushima Daiichi nuclear disaster was a tragic event.",Negative
+"Concerns about nuclear waste disposal need to be addressed.",Negative
+"I support the use of nuclear power as a clean energy source.",Positive
+"Nuclear weapons pose a significant threat to global security.",Negative
+"I'm optimistic about the future of nuclear fusion research.",Positive
+"Nuclear energy can help reduce greenhouse gas emissions.",Positive
+"International cooperation is essential for nuclear non-proliferation.",Positive
+"I'm uncertain about the long-term effects of nuclear radiation.",Neutral
+"The nuclear arms race during the Cold War was a dangerous time.",Negative
+"I'm skeptical about the safety of nuclear power plants.",Negative
+"Nuclear accidents like Three Mile Island highlight the risks of nuclear energy.",Negative
+"I believe in the importance of nuclear deterrence for national security.",Positive
+"The Hiroshima and Nagasaki bombings were tragic events in history.",Negative
+"I'm concerned about the environmental impact of nuclear testing.",Negative
+"Nuclear disarmament treaties are crucial for preventing nuclear war.",Positive
+"I'm fascinated by the science behind nuclear fusion.",Positive
+"The use of depleted uranium in weapons is a humanitarian concern.",Negative
+"I'm undecided on whether nuclear energy is a viable solution for the future.",Neutral
+"Nuclear proliferation is a complex issue with no easy solutions.",Neutral
+"I'm uneasy about the prospect of nuclear accidents in densely populated areas.",Negative
+"The nuclear industry needs more stringent safety regulations.",Negative
+"I'm intrigued by the potential of small modular nuclear reactors.",Positive
+"Nuclear energy can help reduce dependence on fossil fuels.",Positive
+"The psychological effects of nuclear warfare are profound and long-lasting.",Negative
+"I'm conflicted about the ethical implications of nuclear weapons.",Neutral
+"Nuclear power plants require careful monitoring to prevent disasters.",Negative
+"The use of nuclear energy raises concerns about nuclear terrorism.",Negative
+"I'm hopeful for advancements in nuclear fusion technology.",Positive
+"The Chernobyl nuclear disaster had devastating consequences for the environment.",Negative
+"I'm cautiously optimistic about the future of nuclear energy.",Positive
+"The proliferation of nuclear weapons poses a grave threat to humanity.",Negative
+"I'm concerned about the health risks associated with living near nuclear facilities.",Negative
+"Nuclear energy offers a reliable source of baseload power.",Positive
+"The nuclear arms race during the Cold War was a dark chapter in history.",Negative
+"I'm ambivalent about the role of nuclear power in combating climate change.",Neutral
+"Nuclear accidents like Chernobyl highlight the dangers of human error.",Negative
+"I'm supportive of efforts to promote nuclear disarmament.",Positive
+"The use of nuclear weapons in warfare should be universally condemned.",Negative
+"I'm apprehensive about the security risks posed by nuclear facilities.",Negative
+"Nuclear energy can play a key role in reducing carbon emissions.",Positive
+"The potential for nuclear accidents is a major concern for public safety.",Negative
+"I'm optimistic about the prospects for nuclear fusion as a clean energy source.",Positive
+"The use of nuclear weapons violates humanitarian principles.",Negative
+"I'm uncertain about the economic viability of nuclear energy.",Neutral
+"The long-term storage of nuclear waste is a significant challenge.",Negative
+"I'm cautiously optimistic about the potential of thorium-based nuclear reactors.",Positive
+"The fear of nuclear proliferation drives international security policies.",Negative
+"I'm torn between the benefits and risks of nuclear energy.",Neutral
+"Nuclear disarmament negotiations require diplomatic skill and cooperation.",Positive
+"I'm worried about the environmental impact of uranium mining for nuclear fuel.",Negative
+"Nuclear energy can provide a reliable source of electricity in remote areas.",Positive
+"The Cuban Missile Crisis was a pivotal moment in the history of nuclear warfare.",Negative
+"I'm conflicted about the moral implications of nuclear deterrence.",Neutral
+"Nuclear accidents like Fukushima underscore the need for better safety protocols.",Negative
+"I'm hopeful that advancements in nuclear technology will lead to safer reactors.",Positive
+"The use of nuclear weapons is a violation of international law.",Negative
+"I'm uncertain about the long-term effects of nuclear radiation exposure.",Neutral
+"The risk of nuclear accidents outweighs the benefits of nuclear energy.",Negative
+"I'm cautiously optimistic about the potential of nuclear fusion as a sustainable energy source.",Positive
+"The environmental impact of nuclear disasters is devastating and long-lasting.",Negative
+"I'm skeptical about the safety claims made by proponents of nuclear power.",Negative
+"Nuclear proliferation poses a grave threat to global security.",Negative
+"I'm undecided on the role of nuclear energy in addressing climate change.",Neutral
+"The use of nuclear weapons in warfare has catastrophic consequences.",Negative
+"I'm concerned about the potential for nuclear terrorism.",Negative
+"Nuclear energy has the potential to provide clean and reliable power.",Positive
+"The dangers of nuclear accidents cannot be overstated.",Negative
+"I'm optimistic about the future of nuclear energy as a sustainable solution.",Positive
+"The use of nuclear weapons is morally indefensible.",Negative
+"I'm uncertain about the feasibility of nuclear fusion as a practical energy source.",Neutral
+"The disposal of nuclear waste is a pressing environmental issue.",Negative
+"I'm cautiously optimistic about the prospects for nuclear disarmament.",Positive
+"The psychological trauma caused by nuclear warfare is profound.",Negative
+"I'm conflicted about the ethical implications of nuclear power.",Neutral
+"Nuclear power plants require stringent safety measures to prevent disasters.",Negative
+"The proliferation of nuclear weapons poses a grave threat to global security.",Negative
+"I'm hopeful for advancements in nuclear fusion technology.",Positive
+"The Chernobyl nuclear disaster had devastating consequences for the environment.",Negative
+"I'm cautiously optimistic about the future of nuclear energy.",Positive
+"The use of nuclear energy raises concerns about nuclear terrorism.",Negative
+"I'm concerned about the health risks associated with living near nuclear facilities.",Negative
+"Nuclear energy offers a reliable source of baseload power.",Positive
+"The nuclear arms race during the Cold War was a dark chapter in history.",Negative
+"I'm ambivalent about the role of nuclear power in combating climate change.",Neutral
+"Nuclear accidents like Chernobyl highlight the dangers of human error.",Negative
+"I'm supportive of efforts to promote nuclear disarmament.",Positive
+"The use of nuclear weapons in warfare should be universally condemned.",Negative
+"I'm apprehensive about the security risks posed by nuclear facilities.",Negative
+"Nuclear energy can play a key role in reducing carbon emissions.",Positive
+"The potential for nuclear accidents is a major concern for public safety.",Negative
+"I'm optimistic about the prospects for nuclear fusion as a clean energy source.",Positive
+"The use of nuclear weapons violates humanitarian principles.",Negative
+"I'm uncertain about the economic viability of nuclear energy.",Neutral
+"The long-term storage of nuclear waste is a significant challenge.",Negative
+"I'm cautiously optimistic about the potential of thorium-based nuclear reactors.",Positive
+"The fear of nuclear proliferation drives international security policies.",Negative
+"I'm torn between the benefits and risks of nuclear energy.",Neutral
+"Nuclear disarmament negotiations require diplomatic skill and cooperation.",Positive
+"I'm worried about the environmental impact of uranium mining for nuclear fuel.",Negative
+"Nuclear energy can provide a reliable source of electricity in remote areas.",Positive
+"The Cuban Missile Crisis was a pivotal moment in the history of nuclear warfare.",Negative
+"I'm conflicted about the moral implications of nuclear deterrence.",Neutral
+"Nuclear accidents like Fukushima underscore the need for better safety protocols.",Negative
+"I'm hopeful that advancements in nuclear technology will lead to safer reactors.",Positive
+"The use of nuclear weapons is a violation of international law.",Negative
+"I'm uncertain about the long-term effects of nuclear radiation exposure.",Neutral
+"The risk of nuclear accidents outweighs the benefits of nuclear energy.",Negative
+"I'm cautiously optimistic about the potential of nuclear fusion as a sustainable energy source.",Positive
+"The environmental impact of nuclear disasters is devastating and long-lasting.",Negative
+"I'm skeptical about the safety claims made by proponents of nuclear power.",Negative
+"Nuclear proliferation poses a grave threat to global security.",Negative
+"I'm undecided on the role of nuclear energy in addressing climate change.",Neutral
+"The use of nuclear weapons in warfare has catastrophic consequences.",Negative
+"I'm concerned about the potential for nuclear terrorism.",Negative
+"Nuclear energy has the potential to provide clean and reliable power.",Positive
+"The dangers of nuclear accidents cannot be overstated.",Negative
+"I'm optimistic about the future of nuclear energy as a sustainable solution.",Positive
+"The use of nuclear weapons is morally indefensible.",Negative
+"I'm uncertain about the feasibility of nuclear fusion as a practical energy source.",Neutral
+"The disposal of nuclear waste is a pressing environmental issue.",Negative
+"I'm cautiously optimistic about the prospects for nuclear disarmament.",Positive
+"The psychological trauma caused by nuclear warfare is profound.",Negative
+"I'm conflicted about the ethical implications of nuclear power.",Neutral
+"Nuclear power plants require stringent safety measures to prevent disasters.",Negative
+"The proliferation of nuclear weapons poses a grave threat to global security.",Negative
+"I'm hopeful for advancements in nuclear fusion technology.",Positive
+"The Chernobyl nuclear disaster had devastating consequences for the environment.",Negative
+"I'm cautiously optimistic about the future of nuclear energy.",Positive
+"The use of nuclear energy raises concerns about nuclear terrorism.",Negative
+"I'm concerned about the health risks associated with living near nuclear facilities.",Negative
+"Nuclear energy offers a reliable source of baseload power.",Positive
+"The nuclear arms race during the Cold War was a dark chapter in history.",Negative
+"I'm ambivalent about the role of nuclear power in combating climate change.",Neutral
+"Nuclear accidents like Chernobyl highlight the dangers of human error.",Negative
+"I'm supportive of efforts to promote nuclear disarmament.",Positive
+"The use of nuclear weapons in warfare should be universally condemned.",Negative
+"I'm apprehensive about the security risks posed by nuclear facilities.",Negative
+"Nuclear energy can play a key role in reducing carbon emissions.",Positive
+"The potential for nuclear accidents is a major concern for public safety.",Negative
+"I'm optimistic about the prospects for nuclear fusion as a clean energy source.",Positive
+"The use of nuclear weapons violates humanitarian principles.",Negative
+"I'm uncertain about the economic viability of nuclear energy.",Neutral
+"The long-term storage of nuclear waste is a significant challenge.",Negative
+"I'm cautiously optimistic about the potential of thorium-based nuclear reactors.",Positive
+"The fear of nuclear proliferation drives international security policies.",Negative
+"I'm torn between the benefits and risks of nuclear energy.",Neutral
+"Nuclear disarmament negotiations require diplomatic skill and cooperation.",Positive
+"I'm worried about the environmental impact of uranium mining for nuclear fuel.",Negative
+"Nuclear energy can provide a reliable source of electricity in remote areas.",Positive
+"The Cuban Missile Crisis was a pivotal moment in the history of nuclear warfare.",Negative
+"I'm conflicted about the moral implications of nuclear deterrence.",Neutral
+"Nuclear accidents like Fukushima underscore the need for better safety protocols.",Negative
+"I'm hopeful that advancements in nuclear technology will lead to safer reactors.",Positive
+"The use of nuclear weapons is a violation of international law.",Negative
+"I'm uncertain about the long-term effects of nuclear radiation exposure.",Neutral
+"The risk of nuclear accidents outweighs the benefits of nuclear energy.",Negative
+"I'm cautiously optimistic about the potential of nuclear fusion as a sustainable energy source.",Positive
+"The environmental impact of nuclear disasters is devastating and long-lasting.",Negative
+"I'm skeptical about the safety claims made by proponents of nuclear power.",Negative
+"Nuclear proliferation poses a grave threat to global security.",Negative
+"I'm undecided on the role of nuclear energy in addressing climate change.",Neutral
+"The use of nuclear weapons in warfare has catastrophic consequences.",Negative
+"I'm concerned about the potential for nuclear terrorism.",Negative
+"Nuclear energy has the potential to provide clean and reliable power.",Positive
+"The dangers of nuclear accidents cannot be overstated.",Negative
+"I'm optimistic about the future of nuclear energy as a sustainable solution.",Positive
+"The use of nuclear weapons is morally indefensible.",Negative
+"I'm uncertain about the feasibility of nuclear fusion as a practical energy source.",Neutral
+"The disposal of nuclear waste is a pressing environmental issue.",Negative
+"I'm cautiously optimistic about the prospects for nuclear disarmament.",Positive
+"The psychological trauma caused by nuclear warfare is profound.",Negative
+"I'm conflicted about the ethical implications of nuclear power.",Neutral
+"Nuclear power plants require stringent safety measures to prevent disasters.",Negative
+"The proliferation of nuclear weapons poses a grave threat to global security.",Negative
+"I'm hopeful for advancements in nuclear fusion technology.",Positive
+"The Chernobyl nuclear disaster had devastating consequences for the environment.",Negative
+"I'm cautiously optimistic about the future of nuclear energy.",Positive
+"The use of nuclear energy raises concerns about nuclear terrorism.",Negative
+"I'm concerned about the health risks associated with living near nuclear facilities.",Negative
+"Nuclear energy offers a reliable source of baseload power.",Positive
+"The nuclear arms race during the Cold War was a dark chapter in history.",Negative
+"I'm ambivalent about the role of nuclear power in combating climate change.",Neutral
+"Nuclear accidents like Chernobyl highlight the dangers of human error.",Negative
+"I'm supportive of efforts to promote nuclear disarmament.",Positive
+"The use of nuclear weapons in warfare should be universally condemned.",Negative
+"I'm apprehensive about the security risks posed by nuclear facilities.",Negative
+"Nuclear energy can play a key role in reducing carbon emissions.",Positive
+"The potential for nuclear accidents is a major concern for public safety.",Negative
+"I'm optimistic about the prospects for nuclear fusion as a clean energy source.",Positive
+"The use of nuclear weapons violates humanitarian principles.",Negative
+"I'm uncertain about the economic viability of nuclear energy.",Neutral
+"The long-term storage of nuclear waste is a significant challenge.",Negative
+"I'm cautiously optimistic about the potential of thorium-based nuclear reactors.",Positive
+"The fear of nuclear proliferation drives international security policies.",Negative
+"I'm torn between the benefits and risks of nuclear energy.",Neutral
+"Nuclear disarmament negotiations require diplomatic skill and cooperation.",Positive
+"I'm worried about the environmental impact of uranium mining for nuclear fuel.",Negative
+"Nuclear energy can provide a reliable source of electricity in remote areas.",Positive
+"The Cuban Missile Crisis was a pivotal moment in the history of nuclear warfare.",Negative
+"I'm conflicted about the moral implications of nuclear deterrence.",Neutral
+"Nuclear accidents like Fukushima underscore the need for better safety protocols.",Negative
+"I'm hopeful that advancements in nuclear technology will lead to safer reactors.",Positive
+"The use of nuclear weapons is a violation of international law.",Negative
+"I'm uncertain about the long-term effects of nuclear radiation exposure.",Neutral
+"The risk of nuclear accidents outweighs the benefits of nuclear energy.",Negative
+"I'm cautiously optimistic about the potential of nuclear fusion as a sustainable energy source.",Positive
+"The environmental impact of nuclear disasters is devastating and long-lasting.",Negative
+"I'm skeptical about the safety claims made by proponents of nuclear power.",Negative
+"Nuclear proliferation poses a grave threat to global security.",Negative
+"I'm undecided on the role of nuclear energy in addressing climate change.",Neutral
+"The use of nuclear weapons in warfare has catastrophic consequences.",Negative
+"I'm concerned about the potential for nuclear terrorism.",Negative
+"Nuclear energy has the potential to provide clean and reliable power.",Positive
+"The dangers of nuclear accidents cannot be overstated.",Negative
+"I'm optimistic about the future of nuclear energy as a sustainable solution.",Positive
+"The use of nuclear weapons is morally indefensible.",Negative
+"I'm uncertain about the feasibility of nuclear fusion as a practical energy source.",Neutral
+"The disposal of nuclear waste is a pressing environmental issue.",Negative
+"I'm cautiously optimistic about the prospects for nuclear disarmament.",Positive
+"The psychological trauma caused by nuclear warfare is profound.",Negative
+"I'm conflicted about the ethical implications of nuclear power.",Neutral
+"Nuclear power plants require stringent safety measures to prevent disasters.",Negative
+"The proliferation of nuclear weapons poses a grave threat to global security.",Negative
+"I'm hopeful for advancements in nuclear fusion technology.",Positive
+"The Chernobyl nuclear disaster had devastating consequences for the environment.",Negative
+"I'm cautiously optimistic about the future of nuclear energy.",Positive
+"The use of nuclear energy raises concerns about nuclear terrorism.",Negative
+"I'm concerned about the health risks associated with living near nuclear facilities.",Negative
+"Nuclear energy offers a reliable source of baseload power.",Positive
+"The nuclear arms race during the Cold War was a dark chapter in history.",Negative
+"I'm ambivalent about the role of nuclear power in combating climate change.",Neutral
+"Nuclear accidents like Chernobyl highlight the dangers of human error.",Negative
+"I'm supportive of efforts to promote nuclear disarmament.",Positive
+"The use of nuclear weapons in warfare should be universally condemned.",Negative
+"I'm apprehensive about the security risks posed by nuclear facilities.",Negative
+"Nuclear energy can play a key role in reducing carbon emissions.",Positive
+"The potential for nuclear accidents is a major concern for public safety.",Negative
+"I'm optimistic about the prospects for nuclear fusion as a clean energy source.",Positive
+"The use of nuclear weapons violates humanitarian principles.",Negative
+"I'm uncertain about the economic viability of nuclear energy.",Neutral
+"The long-term storage of nuclear waste is a significant challenge.",Negative
+"I'm cautiously optimistic about the potential of thorium-based nuclear reactors.",Positive
+"The fear of nuclear proliferation drives international security policies.",Negative
+"I'm torn between the benefits and risks of nuclear energy.",Neutral
+"Nuclear disarmament negotiations require diplomatic skill and cooperation.",Positive
+"I'm worried about the environmental impact of uranium mining for nuclear fuel.",Negative
+"Nuclear energy can provide a reliable source of electricity in remote areas.",Positive
+"The Cuban Missile Crisis was a pivotal moment in the history of nuclear warfare.",Negative
+"I'm conflicted about the moral implications of nuclear deterrence.",Neutral
+"Nuclear accidents like Fukushima underscore the need for better safety protocols.",Negative
+"I'm hopeful that advancements in nuclear technology will lead to safer reactors.",Positive
+"The use of nuclear weapons is a violation of international law.",Negative
+"I'm uncertain about the long-term effects of nuclear radiation exposure.",Neutral
+"The risk of nuclear accidents outweighs the benefits of nuclear energy.",Negative
+"I'm cautiously optimistic about the potential of nuclear fusion as a sustainable energy source.",Positive
+"The environmental impact of nuclear disasters is devastating and long-lasting.",Negative
+"I'm skeptical about the safety claims made by proponents of nuclear power.",Negative
+"Nuclear proliferation poses a grave threat to global security.",Negative
+"I'm undecided on the role of nuclear energy in addressing climate change.",Neutral
+"The use of nuclear weapons in warfare has catastrophic consequences.",Negative
+"I'm concerned about the potential for nuclear terrorism.",Negative
+"Nuclear energy has the potential to provide clean and reliable power.",Positive
+"The dangers of nuclear accidents cannot be overstated.",Negative
+"I'm optimistic about the future of nuclear energy as a sustainable solution.",Positive
+"The use of nuclear weapons is morally indefensible.",Negative
+"I'm uncertain about the feasibility of nuclear fusion as a practical energy source.",Neutral
+"The disposal of nuclear waste is a pressing environmental issue.",Negative
+"I'm cautiously optimistic about the prospects for nuclear disarmament.",Positive
+"The psychological trauma caused by nuclear warfare is profound.",Negative
+"I'm conflicted about the ethical implications of nuclear power.",Neutral
+"Nuclear power plants require stringent safety measures to prevent disasters.",Negative
+"The proliferation of nuclear weapons poses a grave threat to global security.",Negative
+"I'm hopeful for advancements in nuclear fusion technology.",Positive
+"The Chernobyl nuclear disaster had devastating consequences for the environment.",Negative
+"I'm cautiously optimistic about the future of nuclear energy.",Positive
+"The use of nuclear energy raises concerns about nuclear terrorism.",Negative
+"I'm concerned about the health risks associated with living near nuclear facilities.",Negative
+"Nuclear energy offers a reliable source of baseload power.",Positive
+"The nuclear arms race during the Cold War was a dark chapter in history.",Negative
+"I'm ambivalent about the role of nuclear power in combating climate change.",Neutral
+"Nuclear accidents like Chernobyl highlight the dangers of human error.",Negative
+"I'm supportive of efforts to promote nuclear disarmament.",Positive
+"The use of nuclear weapons in warfare should be universally condemned.",Negative
+"I'm apprehensive about the security risks posed by nuclear facilities.",Negative
+"Nuclear energy can play a key role in reducing carbon emissions.",Positive
+"The potential for nuclear accidents is a major concern for public safety.",Negative
+"I'm optimistic about the prospects for nuclear fusion as a clean energy source.",Positive
+"The use of nuclear weapons violates humanitarian principles.",Negative
+"I'm uncertain about the economic viability of nuclear energy.",Neutral
+"The long-term storage of nuclear waste is a significant challenge.",Negative
+"I'm cautiously optimistic about the potential of thorium-based nuclear reactors.",Positive
+"The fear of nuclear proliferation drives international security policies.",Negative
+"I'm torn between the benefits and risks of nuclear energy.",Neutral
+"Nuclear disarmament negotiations require diplomatic skill and cooperation.",Positive
+"I'm worried about the environmental impact of uranium mining for nuclear fuel.",Negative
+"Nuclear energy can provide a reliable source of electricity in remote areas.",Positive
+"The Cuban Missile Crisis was a pivotal moment in the history of nuclear warfare.",Negative
+"I'm conflicted about the moral implications of nuclear deterrence.",Neutral
+"Nuclear accidents like Fukushima underscore the need for better safety protocols.",Negative
+"I'm hopeful that advancements in nuclear technology will lead to safer reactors.",Positive
+"The use of nuclear weapons is a violation of international law.",Negative
+"I'm uncertain about the long-term effects of nuclear radiation exposure.",Neutral
+"The risk of nuclear accidents outweighs the benefits of nuclear energy.",Negative
+"I'm cautiously optimistic about the potential of nuclear fusion as a sustainable energy source.",Positive
+"The environmental impact of nuclear disasters is devastating and long-lasting.",Negative
+"I'm skeptical about the safety claims made by proponents of nuclear power.",Negative
+"Nuclear proliferation poses a grave threat to global security.",Negative
+"I'm undecided on the role of nuclear energy in addressing climate change.",Neutral
+"The use of nuclear weapons in warfare has catastrophic consequences.",Negative
+"I'm concerned about the potential for nuclear terrorism.",Negative
+"Nuclear energy has the potential to provide clean and reliable power.",Positive
+"The dangers of nuclear accidents cannot be overstated.",Negative
+"I'm optimistic about the future of nuclear energy as a sustainable solution.",Positive
+"The use of nuclear weapons is morally indefensible.",Negative
+"I'm uncertain about the feasibility of nuclear fusion as a practical energy source.",Neutral
+"The disposal of nuclear waste is a pressing environmental issue.",Negative
+"I'm cautiously optimistic about the prospects for nuclear disarmament.",Positive
+"The psychological trauma caused by nuclear warfare is profound.",Negative
+"I'm conflicted about the ethical implications of nuclear power.",Neutral
+"Nuclear power plants require stringent safety measures to prevent disasters.",Negative
+"The proliferation of nuclear weapons poses a grave threat to global security.",Negative
+"I'm hopeful for advancements in nuclear fusion technology.",Positive
+"The Chernobyl nuclear disaster had devastating consequences for the environment.",Negative
+"I'm cautiously optimistic about the future of nuclear energy.",Positive
+"The use of nuclear energy raises concerns about nuclear terrorism.",Negative
+"I'm concerned about the health risks associated with living near nuclear facilities.",Negative
+"Nuclear energy offers a reliable source of baseload power.",Positive
+"The nuclear arms race during the Cold War was a dark chapter in history.",Negative
+"I'm ambivalent about the role of nuclear power in combating climate change.",Neutral
+"Nuclear accidents like Chernobyl highlight the dangers of human error.",Negative
+"I'm supportive of efforts to promote nuclear disarmament.",Positive
+"The use of nuclear weapons in warfare should be universally condemned.",Negative
+"I'm apprehensive about the security risks posed by nuclear facilities.",Negative
+"Nuclear energy can play a key role in reducing carbon emissions.",Positive
+"The potential for nuclear accidents is a major concern for public safety.",Negative
+"I'm optimistic about the prospects for nuclear fusion as a clean energy source.",Positive
+"The use of nuclear weapons violates humanitarian principles.",Negative
+"I'm uncertain about the economic viability of nuclear energy.",Neutral
+"The long-term storage of nuclear waste is a significant challenge.",Negative
+"I'm cautiously optimistic about the potential of thorium-based nuclear reactors.",Positive
+"The fear of nuclear proliferation drives international security policies.",Negative
+"I'm torn between the benefits and risks of nuclear energy.",Neutral
+"Nuclear disarmament negotiations require diplomatic skill and cooperation.",Positive
+"I'm worried about the environmental impact of uranium mining for nuclear fuel.",Negative
+"Nuclear energy can provide a reliable source of electricity in remote areas.",Positive
+"The Cuban Missile Crisis was a pivotal moment in the history of nuclear warfare.",Negative
+"I'm conflicted about the moral implications of nuclear deterrence.",Neutral
+"Nuclear accidents like Fukushima underscore the need for better safety protocols.",Negative
+"I'm hopeful that advancements in nuclear technology will lead to safer reactors.",Positive
+"The use of nuclear weapons is a violation of international law.",Negative
+"I'm uncertain about the long-term effects of nuclear radiation exposure.",Neutral
+"The risk of nuclear accidents outweighs the benefits of nuclear energy.",Negative
+"I'm cautiously optimistic about the potential of nuclear fusion as a sustainable energy source.",Positive
+"The environmental impact of nuclear disasters is devastating and long-lasting.",Negative
+"I'm skeptical about the safety claims made by proponents of nuclear power.",Negative
+"Nuclear proliferation poses a grave threat to global security.",Negative
+"I'm undecided on the role of nuclear energy in addressing climate change.",Neutral
+"The use of nuclear weapons in warfare has catastrophic consequences.",Negative
+"I'm concerned about the potential for nuclear terrorism.",Negative
+"Nuclear energy has the potential to provide clean and reliable power.",Positive
+"The dangers of nuclear accidents cannot be overstated.",Negative
+"I'm optimistic about the future of nuclear energy as a sustainable solution.",Positive
+"The use of nuclear weapons is morally indefensible.",Negative
+"I'm uncertain about the feasibility of nuclear fusion as a practical energy source.",Neutral
+"The disposal of nuclear waste is a pressing environmental issue.",Negative
+"I'm cautiously optimistic about the prospects for nuclear disarmament.",Positive
+"The psychological trauma caused by nuclear warfare is profound.",Negative
+"I'm conflicted about the ethical implications of nuclear power.",Neutral
+"Nuclear power plants require stringent safety measures to prevent disasters.",Negative
+"The proliferation of nuclear weapons poses a grave threat to global security.",Negative
+"I'm hopeful for advancements in nuclear fusion technology.",Positive
+"The Chernobyl nuclear disaster had devastating consequences for the environment.",Negative
+"I'm cautiously optimistic about the future of nuclear energy.",Positive
+"The use of nuclear energy raises concerns about nuclear terrorism.",Negative
+"I'm concerned about the health risks associated with living near nuclear facilities.",Negative
+"Nuclear energy offers a reliable source of baseload power.",Positive
+"The nuclear arms race during the Cold War was a dark chapter in history.",Negative
+"I'm ambivalent about the role of nuclear power in combating climate change.",Neutral
+"Nuclear accidents like Chernobyl highlight the dangers of human error.",Negative
+"I'm supportive of efforts to promote nuclear disarmament.",Positive
+"The use of nuclear weapons in warfare should be universally condemned.",Negative
+"I'm apprehensive about the security risks posed by nuclear facilities.",Negative
+"Nuclear energy can play a key role in reducing carbon emissions.",Positive
+"The potential for nuclear accidents is a major concern for public safety.",Negative
+"I'm optimistic about the prospects for nuclear fusion as a clean energy source.",Positive
+"The use of nuclear weapons violates humanitarian principles.",Negative
+"I'm uncertain about the economic viability of nuclear energy.",Neutral
+"The long-term storage of nuclear waste is a significant challenge.",Negative
+"I'm cautiously optimistic about the potential of thorium-based nuclear reactors.",Positive
+"The fear of nuclear proliferation drives international security policies.",Negative
+"I'm torn between the benefits and risks of nuclear energy.",Neutral
+"Nuclear disarmament negotiations require diplomatic skill and cooperation.",Positive
+"I'm worried about the environmental impact of uranium mining for nuclear fuel.",Negative
+"Nuclear energy can provide a reliable source of electricity in remote areas.",Positive
+"The Cuban Missile Crisis was a pivotal moment in the history of nuclear warfare.",Negative
+"I'm conflicted about the moral implications of nuclear deterrence.",Neutral
+"Nuclear accidents like Fukushima underscore the need for better safety protocols.",Negative
+"I'm hopeful that advancements in nuclear technology will lead to safer reactors.",Positive
+"The use of nuclear weapons is a violation of international law.",Negative
+"I'm uncertain about the long-term effects of nuclear radiation exposure.",Neutral
+"The risk of nuclear accidents outweighs the benefits of nuclear energy.",Negative
+"I'm cautiously optimistic about the potential of nuclear fusion as a sustainable energy source.",Positive
+"The environmental impact of nuclear disasters is devastating and long-lasting.",Negative
+"I'm skeptical about the safety claims made by proponents of nuclear power.",Negative
+"Nuclear proliferation poses a grave threat to global security.",Negative
+"I'm undecided on the role of nuclear energy in addressing climate change.",Neutral
+"The use of nuclear weapons in warfare has catastrophic consequences.",Negative
+"I'm concerned about the potential for nuclear terrorism.",Negative
+"Nuclear energy has the potential to provide clean and reliable power.",Positive
+"The dangers of nuclear accidents cannot be overstated.",Negative
+"I'm optimistic about the future of nuclear energy as a sustainable solution.",Positive
+"The use of nuclear weapons is morally indefensible.",Negative
+"I'm uncertain about the feasibility of nuclear fusion as a practical energy source.",Neutral
+"The disposal of nuclear waste is a pressing environmental issue.",Negative
+"I'm cautiously optimistic about the prospects for nuclear disarmament.",Positive
+"The psychological trauma caused by nuclear warfare is profound.",Negative
+"I'm conflicted about the ethical implications of nuclear power.",Neutral
+"Nuclear power plants require stringent safety measures to prevent disasters.",Negative
+"The proliferation of nuclear weapons poses a grave threat to global security.",Negative
+"I'm hopeful for advancements in nuclear fusion technology.",Positive
+"The Chernobyl nuclear disaster had devastating consequences for the environment.",Negative
+"I'm cautiously optimistic about the future of nuclear energy.",Positive
+"The use of nuclear energy raises concerns about nuclear terrorism.",Negative
+"I'm concerned about the health risks associated with living near nuclear facilities.",Negative
+"Nuclear energy offers a reliable source of baseload power.",Positive
+"The nuclear arms race during the Cold War was a dark chapter in history.",Negative
+"I'm ambivalent about the role of nuclear power in combating climate change.",Neutral
+"Nuclear accidents like Chernobyl highlight the dangers of human error.",Negative
+"I'm supportive of efforts to promote nuclear disarmament.",Positive
+"The use of nuclear weapons in warfare should be universally condemned.",Negative
+"I'm apprehensive about the security risks posed by nuclear facilities.",Negative
+"Nuclear energy can play a key role in reducing carbon emissions.",Positive
+"The potential for nuclear accidents is a major concern for public safety.",Negative
+"I'm optimistic about the prospects for nuclear fusion as a clean energy source.",Positive
+"The use of nuclear weapons violates humanitarian principles.",Negative
+"I'm uncertain about the economic viability of nuclear energy.",Neutral
+"The long-term storage of nuclear waste is a significant challenge.",Negative
+"I'm cautiously optimistic about the potential of thorium-based nuclear reactors.",Positive
+"The fear of nuclear proliferation drives international security policies.",Negative
+"I'm torn between the benefits and risks of nuclear energy.",Neutral
+"Nuclear disarmament negotiations require diplomatic skill and cooperation.",Positive
+"I'm worried about the environmental impact of uranium mining for nuclear fuel.",Negative
+"Nuclear energy can provide a reliable source of electricity in remote areas.",Positive
+"The Cuban Missile Crisis was a pivotal moment in the history of nuclear warfare.",Negative
+"I'm conflicted about the moral implications of nuclear deterrence.",Neutral
+"Nuclear accidents like Fukushima underscore the need for better safety protocols.",Negative
+"I'm hopeful that advancements in nuclear technology will lead to safer reactors.",Positive
+"The use of nuclear weapons is a violation of international law.",Negative
+"I'm uncertain about the long-term effects of nuclear radiation exposure.",Neutral
+"The risk of nuclear accidents outweighs the benefits of nuclear energy.",Negative
+"I'm cautiously optimistic about the potential of nuclear fusion as a sustainable energy source.",Positive
+"The environmental impact of nuclear disasters is devastating and long-lasting.",Negative
+"I'm skeptical about the safety claims made by proponents of nuclear power.",Negative
+"Nuclear proliferation poses a grave threat to global security.",Negative
+"I'm undecided on the role of nuclear energy in addressing climate change.",Neutral
+"The use of nuclear weapons in warfare has catastrophic consequences.",Negative
+"I'm concerned about the potential for nuclear terrorism.",Negative
+"Nuclear energy has the potential to provide clean and reliable power.",Positive
+"The dangers of nuclear accidents cannot be overstated.",Negative
+"I'm optimistic about the future of nuclear energy as a sustainable solution.",Positive
+"The use of nuclear weapons is morally indefensible.",Negative
+"I'm uncertain about the feasibility of nuclear fusion as a practical energy source.",Neutral
+"The disposal of nuclear waste is a pressing environmental issue.",Negative
+"I'm cautiously optimistic about the prospects for nuclear disarmament.",Positive
+"The psychological trauma caused by nuclear warfare is profound.",Negative
+"I'm conflicted about the ethical implications of nuclear power.",Neutral
+"Nuclear power plants require stringent safety measures to prevent disasters.",Negative
+"The proliferation of nuclear weapons poses a grave threat to global security.",Negative
+"I'm hopeful for advancements in nuclear fusion technology.",Positive
+"The Chernobyl nuclear disaster had devastating consequences for the environment.",Negative
+"I'm cautiously optimistic about the future of nuclear energy.",Positive
+"The use of nuclear energy raises concerns about nuclear terrorism.",Negative
+"I'm concerned about the health risks associated with living near nuclear facilities.",Negative
+"Nuclear energy offers a reliable source of baseload power.",Positive
+"The nuclear arms race during the Cold War was a dark chapter in history.",Negative
+"I'm ambivalent about the role of nuclear power in combating climate change.",Neutral
+"Nuclear accidents like Chernobyl highlight the dangers of human error.",Negative
+"I'm supportive of efforts to promote nuclear disarmament.",Positive
+"The use of nuclear weapons in warfare should be universally condemned.",Negative
+"I'm apprehensive about the security risks posed by nuclear facilities.",Negative
+"Nuclear energy can play a key role in reducing carbon emissions.",Positive
+"The potential for nuclear accidents is a major concern for public safety.",Negative
+"I'm optimistic about the prospects for nuclear fusion as a clean energy source.",Positive
+"The use of nuclear weapons violates humanitarian principles.",Negative
+"I'm uncertain about the economic viability of nuclear energy.",Neutral
+"The long-term storage of nuclear waste is a significant challenge.",Negative
+"I'm cautiously optimistic about the potential of thorium-based nuclear reactors.",Positive
+"The fear of nuclear proliferation drives international security policies.",Negative
+"I'm torn between the benefits and risks of nuclear energy.",Neutral
+"Nuclear disarmament negotiations require diplomatic skill and cooperation.",Positive
+"I'm worried about the environmental impact of uranium mining for nuclear fuel.",Negative
+"Nuclear energy can provide a reliable source of electricity in remote areas.",Positive
+"The Cuban Missile Crisis was a pivotal moment in the history of nuclear warfare.",Negative
+"I'm conflicted about the moral implications of nuclear deterrence.",Neutral
+"Nuclear accidents like Fukushima underscore the need for better safety protocols.",Negative
+"I'm hopeful that advancements in nuclear technology will lead to safer reactors.",Positive
+"The use of nuclear weapons is a violation of international law.",Negative
+"I'm uncertain about the long-term effects of nuclear radiation exposure.",Neutral
+"The risk of nuclear accidents outweighs the benefits of nuclear energy.",Negative
+"I'm cautiously optimistic about the potential of nuclear fusion as a sustainable energy source.",Positive
+"The environmental impact of nuclear disasters is devastating and long-lasting.",Negative
+"I'm skeptical about the safety claims made by proponents of nuclear power.",Negative
+"Nuclear proliferation poses a grave threat to global security.",Negative
+"I'm undecided on the role of nuclear energy in addressing climate change.",Neutral
+"The use of nuclear weapons in warfare has catastrophic consequences.",Negative
+"I'm concerned about the potential for nuclear terrorism.",Negative
+"Nuclear energy has the potential to provide clean and reliable power.",Positive
+"The dangers of nuclear accidents cannot be overstated.",Negative
+"I'm optimistic about the future of nuclear energy as a sustainable solution.",Positive
+"The use of nuclear weapons is morally indefensible.",Negative
+"I'm uncertain about the feasibility of nuclear fusion as a practical energy source.",Neutral
+"The disposal of nuclear waste is a pressing environmental issue.",Negative
+"I'm cautiously optimistic about the prospects for nuclear disarmament.",Positive
+"The psychological trauma caused by nuclear warfare is profound.",Negative
+"I'm conflicted about the ethical implications of nuclear power.",Neutral
+"Nuclear power plants require stringent safety measures to prevent disasters.",Negative
+"The proliferation of nuclear weapons poses a grave threat to global security.",Negative
+"I'm hopeful for advancements in nuclear fusion technology.",Positive
+"The Chernobyl nuclear disaster had devastating consequences for the environment.",Negative
+"I'm cautiously optimistic about the future of nuclear energy.",Positive
+"The use of nuclear energy raises concerns about nuclear terrorism.",Negative
+"I'm concerned about the health risks associated with living near nuclear facilities.",Negative
+"Nuclear energy offers a reliable source of baseload power.",Positive
+"The nuclear arms race during the Cold War was a dark chapter in history.",Negative
+"I'm ambivalent about the role of nuclear power in combating climate change.",Neutral
+"Nuclear accidents like Chernobyl highlight the dangers of human error.",Negative
+"I'm supportive of efforts to promote nuclear disarmament.",Positive
+"The use of nuclear weapons in warfare should be universally condemned.",Negative
+"I'm apprehensive about the security risks posed by nuclear facilities.",Negative
+"Nuclear energy can play a key role in reducing carbon emissions.",Positive
+"The potential for nuclear accidents is a major concern for public safety.",Negative
+"I'm optimistic about the prospects for nuclear fusion as a clean energy source.",Positive
+"The use of nuclear weapons violates humanitarian principles.",Negative
+"I'm uncertain about the economic viability of nuclear energy.",Neutral
+"The long-term storage of nuclear waste is a significant challenge.",Negative
+"I'm cautiously optimistic about the potential of thorium-based nuclear reactors.",Positive
+"The fear of nuclear proliferation drives international security policies.",Negative
+"I'm torn between the benefits and risks of nuclear energy.",Neutral
+"Nuclear disarmament negotiations require diplomatic skill and cooperation.",Positive
+"I'm worried about the environmental impact of uranium mining for nuclear fuel.",Negative
+"Nuclear energy can provide a reliable source of electricity in remote areas.",Positive
+"The Cuban Missile Crisis was a pivotal moment in the history of nuclear warfare.",Negative
+"I'm conflicted about the moral implications of nuclear deterrence.",Neutral
+"Nuclear accidents like Fukushima underscore the need for better safety protocols.",Negative
+"I'm hopeful that advancements in nuclear technology will lead to safer reactors.",Positive
+"The use of nuclear weapons is a violation of international law.",Negative
+"I'm uncertain about the long-term effects of nuclear radiation exposure.",Neutral
+"The risk of nuclear accidents outweighs the benefits of nuclear energy.",Negative
+"I'm cautiously optimistic about the potential of nuclear fusion as a sustainable energy source.",Positive
+"The environmental impact of nuclear disasters is devastating and long-lasting.",Negative
+"I'm skeptical about the safety claims made by proponents of nuclear power.",Negative
+"Nuclear proliferation poses a grave threat to global security.",Negative
+"I'm undecided on the role of nuclear energy in addressing climate change.",Neutral
+"The use of nuclear weapons in warfare has catastrophic consequences.",Negative
+"I'm concerned about the potential for nuclear terrorism.",Negative
+"Nuclear energy has the potential to provide clean and reliable power.",Positive
+"The dangers of nuclear accidents cannot be overstated.",Negative
+"I'm optimistic about the future of nuclear energy as a sustainable solution.",Positive
+"The use of nuclear weapons is morally indefensible.",Negative
+"I'm uncertain about the feasibility of nuclear fusion as a practical energy source.",Neutral
+"The disposal of nuclear waste is a pressing environmental issue.",Negative
+"I'm cautiously optimistic about the prospects for nuclear disarmament.",Positive
+"The psychological trauma caused by nuclear warfare is profound.",Negative
+"I'm conflicted about the ethical implications of nuclear power.",Neutral
+"Nuclear power plants require stringent safety measures to prevent disasters.",Negative
+"The proliferation of nuclear weapons poses a grave threat to global security.",Negative
+"I'm hopeful for advancements in nuclear fusion technology.",Positive
+"The Chernobyl nuclear disaster had devastating consequences for the environment.",Negative
+"I'm cautiously optimistic about the future of nuclear energy.",Positive
+"The use of nuclear energy raises concerns about nuclear terrorism.",Negative
+"I'm concerned about the health risks associated with living near nuclear facilities.",Negative
+"Nuclear energy offers a reliable source of baseload power.",Positive
+"The nuclear arms race during the Cold War was a dark chapter in history.",Negative
+"I'm ambivalent about the role of nuclear power in combating climate change.",Neutral
+"Nuclear accidents like Chernobyl highlight the dangers of human error.",Negative
+"I'm supportive of efforts to promote nuclear disarmament.",Positive
+"The use of nuclear weapons in warfare should be universally condemned.",Negative
+"I'm apprehensive about the security risks posed by nuclear facilities.",Negative
+"Nuclear energy can play a key role in reducing carbon emissions.",Positive
+"The potential for nuclear accidents is a major concern for public safety.",Negative
+"I'm optimistic about the prospects for nuclear fusion as a clean energy source.",Positive
+"The use of nuclear weapons violates humanitarian principles.",Negative
+"I'm uncertain about the economic viability of nuclear energy.",Neutral
+"The long-term storage of nuclear waste is a significant challenge.",Negative
+"I'm cautiously optimistic about the potential of thorium-based nuclear reactors.",Positive
+"The fear of nuclear proliferation drives international security policies.",Negative
+"I'm torn between the benefits and risks of nuclear energy.",Neutral
+"Nuclear disarmament negotiations require diplomatic skill and cooperation.",Positive
+"I'm worried about the environmental impact of uranium mining for nuclear fuel.",Negative
+"Nuclear energy can provide a reliable source of electricity in remote areas.",Positive
+"The Cuban Missile Crisis was a pivotal moment in the history of nuclear warfare.",Negative
+"I'm conflicted about the moral implications of nuclear deterrence.",Neutral
+"Nuclear accidents like Fukushima underscore the need for better safety protocols.",Negative
+"I'm hopeful that advancements in nuclear technology will lead to safer reactors.",Positive
+"The use of nuclear weapons is a violation of international law.",Negative
+"I'm uncertain about the long-term effects of nuclear radiation exposure.",Neutral
+"The risk of nuclear accidents outweighs the benefits of nuclear energy.",Negative
+"I'm cautiously optimistic about the potential of nuclear fusion as a sustainable energy source.",Positive
+"The environmental impact of nuclear disasters is devastating and long-lasting.",Negative
+"I'm skeptical about the safety claims made by proponents of nuclear power.",Negative
+"Nuclear proliferation poses a grave threat to global security.",Negative
+"I'm undecided on the role of nuclear energy in addressing climate change.",Neutral
+"The use of nuclear weapons in warfare has catastrophic consequences.",Negative
+"I'm concerned about the potential for nuclear terrorism.",Negative
+"Nuclear energy has the potential to provide clean and reliable power.",Positive
+"The dangers of nuclear accidents cannot be overstated.",Negative
+"I'm optimistic about the future of nuclear energy as a sustainable solution.",Positive
+"The use of nuclear weapons is morally indefensible.",Negative
+"I'm uncertain about the feasibility of nuclear fusion as a practical energy source.",Neutral
+"The disposal of nuclear waste is a pressing environmental issue.",Negative
+"I'm cautiously optimistic about the prospects for nuclear disarmament.",Positive
+"The psychological trauma caused by nuclear warfare is profound.",Negative
+"I'm conflicted about the ethical implications of nuclear power.",Neutral
+"Nuclear power plants require stringent safety measures to prevent disasters.",Negative
+"The proliferation of nuclear weapons poses a grave threat to global security.",Negative
+"I'm hopeful for advancements in nuclear fusion technology.",Positive
+"The Chernobyl nuclear disaster had devastating consequences for the environment.",Negative
+"I'm cautiously optimistic about the future of nuclear energy.",Positive
+"The use of nuclear energy raises concerns about nuclear terrorism.",Negative
+"I'm concerned about the health risks associated with living near nuclear facilities.",Negative
+"Nuclear energy offers a reliable source of baseload power.",Positive
+"The nuclear arms race during the Cold War was a dark chapter in history.",Negative
+"I'm ambivalent about the role of nuclear power in combating climate change.",Neutral
+"Nuclear accidents like Chernobyl highlight the dangers of human error.",Negative
+"I'm supportive of efforts to promote nuclear disarmament.",Positive
+"The use of nuclear weapons in warfare should be universally condemned.",Negative
+"I'm apprehensive about the security risks posed by nuclear facilities.",Negative
+"Nuclear energy can play a key role in reducing carbon emissions.",Positive
+"The potential for nuclear accidents is a major concern for public safety.",Negative
+"I'm optimistic about the prospects for nuclear fusion as a clean energy source.",Positive
+"The use of nuclear weapons violates humanitarian principles.",Negative
+"I'm uncertain about the economic viability of nuclear energy.",Neutral
+"The long-term storage of nuclear waste is a significant challenge.",Negative
+"I'm cautiously optimistic about the potential of thorium-based nuclear reactors.",Positive
+"The fear of nuclear proliferation drives international security policies.",Negative
+"I'm torn between the benefits and risks of nuclear energy.",Neutral
+"Nuclear disarmament negotiations require diplomatic skill and cooperation.",Positive
+"I'm worried about the environmental impact of uranium mining for nuclear fuel.",Negative
+"Nuclear energy can provide a reliable source of electricity in remote areas.",Positive
+"The Cuban Missile Crisis was a pivotal moment in the history of nuclear warfare.",Negative
+"I'm conflicted about the moral implications of nuclear deterrence.",Neutral
+"Nuclear accidents like Fukushima underscore the need for better safety protocols.",Negative
+"I'm hopeful that advancements in nuclear technology will lead to safer reactors.",Positive
+"The use of nuclear weapons is a violation of international law.",Negative
+"I'm uncertain about the long-term effects of nuclear radiation exposure.",Neutral
+"The risk of nuclear accidents outweighs the benefits of nuclear energy.",Negative
+"I'm cautiously optimistic about the potential of nuclear fusion as a sustainable energy source.",Positive
+"The environmental impact of nuclear disasters is devastating and long-lasting.",Negative
+"I'm skeptical about the safety claims made by proponents of nuclear power.",Negative
+"Nuclear proliferation poses a grave threat to global security.",Negative
+"I'm undecided on the role of nuclear energy in addressing climate change.",Neutral
+"The use of nuclear weapons in warfare has catastrophic consequences.",Negative
+"I'm concerned about the potential for nuclear terrorism.",Negative
+"Nuclear energy has the potential to provide clean and reliable power.",Positive
+"The dangers of nuclear accidents cannot be overstated.",Negative
+"I'm optimistic about the future of nuclear energy as a sustainable solution.",Positive
+"The use of nuclear weapons is morally indefensible.",Negative
+"I'm uncertain about the feasibility of nuclear fusion as a practical energy source.",Neutral
+"The disposal of nuclear waste is a pressing environmental issue.",Negative
+"I'm cautiously optimistic about the prospects for nuclear disarmament.",Positive
+"The psychological trauma caused by nuclear warfare is profound.",Negative
+"I'm conflicted about the ethical implications of nuclear power.",Neutral
+"Nuclear power plants require stringent safety measures to prevent disasters.",Negative
+"The proliferation of nuclear weapons poses a grave threat to global security.",Negative
+"I'm hopeful for advancements in nuclear fusion technology.",Positive
+"The Chernobyl nuclear disaster had devastating consequences for the environment.",Negative
+"I'm cautiously optimistic about the future of nuclear energy.",Positive
+"The use of nuclear energy raises concerns about nuclear terrorism.",Negative
+"I'm concerned about the health risks associated with living near nuclear facilities.",Negative
+"Nuclear energy offers a reliable source of baseload power.",Positive
+"The nuclear arms race during the Cold War was a dark chapter in history.",Negative
+"I'm ambivalent about the role of nuclear power in combating climate change.",Neutral
+"Nuclear accidents like Chernobyl highlight the dangers of human error.",Negative
+"I'm supportive of efforts to promote nuclear disarmament.",Positive
+"The use of nuclear weapons in warfare should be universally condemned.",Negative
+"I'm apprehensive about the security risks posed by nuclear facilities.",Negative
+"Nuclear energy can play a key role in reducing carbon emissions.",Positive
+"The potential for nuclear accidents is a major concern for public safety.",Negative
+"I'm optimistic about the prospects for nuclear fusion as a clean energy source.",Positive
+"The use of nuclear weapons violates humanitarian principles.",Negative
+"I'm uncertain about the economic viability of nuclear energy.",Neutral
+"The long-term storage of nuclear waste is a significant challenge.",Negative
+"I'm cautiously optimistic about the potential of thorium-based nuclear reactors.",Positive
+"The fear of nuclear proliferation drives international security policies.",Negative
+"I'm torn between the benefits and risks of nuclear energy.",Neutral
+"Nuclear disarmament negotiations require diplomatic skill and cooperation.",Positive
+"I'm worried about the environmental impact of uranium mining for nuclear fuel.",Negative
+"Nuclear energy can provide a reliable source of electricity in remote areas.",Positive
+"The Cuban Missile Crisis was a pivotal moment in the history of nuclear warfare.",Negative
+"I'm conflicted about the moral implications of nuclear deterrence.",Neutral
+"Nuclear accidents like Fukushima underscore the need for better safety protocols.",Negative
+"I'm hopeful that advancements in nuclear technology will lead to safer reactors.",Positive
+"The use of nuclear weapons is a violation of international law.",Negative
+"I'm uncertain about the long-term effects of nuclear radiation exposure.",Neutral
+"The risk of nuclear accidents outweighs the benefits of nuclear energy.",Negative
+"I'm cautiously optimistic about the potential of nuclear fusion as a sustainable energy source.",Positive
+"The environmental impact of nuclear disasters is devastating and long-lasting.",Negative
+"I'm skeptical about the safety claims made by proponents of nuclear power.",Negative
+"Nuclear proliferation poses a grave threat to global security.",Negative
+"I'm undecided on the role of nuclear energy in addressing climate change.",Neutral
+"The use of nuclear weapons in warfare has catastrophic consequences.",Negative
+"I'm concerned about the potential for nuclear terrorism.",Negative
+"Nuclear energy has the potential to provide clean and reliable power.",Positive
+"The dangers of nuclear accidents cannot be overstated.",Negative
+"I'm optimistic about the future of nuclear energy as a sustainable solution.",Positive
+"The use of nuclear weapons is morally indefensible.",Negative
+"I'm uncertain about the feasibility of nuclear fusion as a practical energy source.",Neutral
+"The disposal of nuclear waste is a pressing environmental issue.",Negative
+"I'm cautiously optimistic about the prospects for nuclear disarmament.",Positive
+"The psychological trauma caused by nuclear warfare is profound.",Negative
+"I'm conflicted about the ethical implications of nuclear power.",Neutral
+"Nuclear power plants require stringent safety measures to prevent disasters.",Negative
+"The proliferation of nuclear weapons poses a grave threat to global security.",Negative
+"I'm hopeful for advancements in nuclear fusion technology.",Positive
+"The Chernobyl nuclear disaster had devastating consequences for the environment.",Negative
+"I'm cautiously optimistic about the future of nuclear energy.",Positive
+"The use of nuclear energy raises concerns about nuclear terrorism.",Negative
+"I'm concerned about the health risks associated with living near nuclear facilities.",Negative
+"Nuclear energy offers a reliable source of baseload power.",Positive
+"The nuclear arms race during the Cold War was a dark chapter in history.",Negative
+"I'm ambivalent about the role of nuclear power in combating climate change.",Neutral
+"Nuclear accidents like Chernobyl highlight the dangers of human error.",Negative
+"I'm supportive of efforts to promote nuclear disarmament.",Positive
+"The use of nuclear weapons in warfare should be universally condemned.",Negative
+"I'm apprehensive about the security risks posed by nuclear facilities.",Negative
+"Nuclear energy can play a key role in reducing carbon emissions.",Positive
+"The potential for nuclear accidents is a major concern for public safety.",Negative
+"I'm optimistic about the prospects for nuclear fusion as a clean energy source.",Positive
+"The use of nuclear weapons violates humanitarian principles.",Negative
+"I'm uncertain about the economic viability of nuclear energy.",Neutral
+"The long-term storage of nuclear waste is a significant challenge.",Negative
